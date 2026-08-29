@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Michael Reser - Chroma Labs"/>
+  <img src=""C:\Dev\ChromaLabs.cc\assets\brand_package\logo_vertical.svg"" width="100%" alt="Michael Reser - Chroma Labs"/>
 </div>
 
 <div align="center">
