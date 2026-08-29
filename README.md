@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./assets/profile_hero.svg" width="300" alt="Michael Reser - Chroma Labs"/>
+  <img src="./assets/profile_logo.png" width="200" alt="Chroma Labs Logo"/>
+  <br/>
+  <img src="./assets/profile_typography.svg" width="300" alt="Michael Reser - Founder & CEO"/>
 </div>
 
 <div align="center">
