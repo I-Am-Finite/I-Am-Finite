@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/I-Am-Finite/I-Am-Finite/main/assets/profile_logo.png" width="250" alt="Chroma Labs Logo"/>
-  <h2 style="margin-top: 20px; font-family: monospace; letter-spacing: 2px;">MICHAEL RESER</h2>
-  <h4 style="color: #888; font-family: monospace; letter-spacing: 4px;">FOUNDER &amp; CEO</h4>
+  <img src="./assets/profile_hero.svg" width="300" alt="Michael Reser - Chroma Labs"/>
 </div>
 
 <div align="center">
